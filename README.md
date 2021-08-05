@@ -1,2 +1,2 @@
 # myportfolio
-this is my first website and I  am upload my portfolio
+this is my first website and this is  my portfolio
